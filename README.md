@@ -17,7 +17,7 @@ I live in Tokyo, working for an education company.
 - **Kenta Sasaki**, Nobuyoshi Nagamine and Yasubumi Sakakibara, "Support vector machine prediction of N- and O-glycosylation sites using whole sequence information and subcellular localization", IPSJ Transactions on Bioinformatics, Vol. 2, pp. 25-35, 2009.
 
 ## Conferences
-- **Kenta Sasaki**, Shinichi Nagano, Katsuyosi Ueno and Kenta Cho, “Feasibility Study on Detection of Transportation Information Exploiting Twitter as a Sensor”, In Proceedings of the When the City Meets the Citizens Workshop at the 6th International Conference on Weblogs and Social Media (ICWSM2012), 2012.
+- **Kenta Sasaki**, Shinichi Nagano, Koji Ueno and Kenta Cho, “Feasibility Study on Detection of Transportation Information Exploiting Twitter as a Sensor”, In Proceedings of the When the City Meets the Citizens Workshop at the 6th International Conference on Weblogs and Social Media (ICWSM2012), 2012.
 - **Kenta Sasaki**, 	Masayuki Okamoto, Nayuko Watanabe, Masaaki Kikuchi, Takayuki Iida and Masanori Hattori, “Extracting Preference Terms from Web Browsing Histories Excluding Pages Unrelated to Users' Interests”, In Proceedings of the 2011 ACM Symposium on Applied Computing (SAC2011), pp.823-824, 2011.
 - **Kenta Sasaki**, Nobuyoshi Nagamine and Yasubumi Sakakibara, “Support vector machine prediction of glycosylation sites using the whole sequence information and subcellular localization”, The 2007 Annual Conference of Japanese Society for Bioinformatics (JSBi2007), 2007.
 - **佐々木健太**，鈴木健一，乾健太郎．“ケースメソッド教育におけるフィードバックの個別化”．人工知能学会全国大会（第33回）．2019．
