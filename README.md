@@ -1,6 +1,7 @@
 # Profile
-My name is Kenta Sasaki.
-I live in Tokyo, working for an education company.
+My name is Kenta Sasaki, born in 1984.
+
+I live in Tokyo, working at an education instituition as a data scientist and a machine learning engineer.
 
 # Career
 - Toshiba Corporation (Apr '09 - Aug '12)
