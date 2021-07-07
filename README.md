@@ -32,4 +32,6 @@ I live in Tokyo, working for an education company.
 # Links
 [Twitter](https://twitter.com/kenta1984)
 
+[Linkedin](www.linkedin.com/in/kenta1984)
+
 [Qiita](https://qiita.com/kenta1984)
