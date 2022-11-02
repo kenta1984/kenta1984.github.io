@@ -8,13 +8,15 @@ I live in Tokyo, working at an education instituition as a data scientist and a 
 - Recruit Co., Ltd. (Sep '12 - Jun '16)
 - Cookpad Inc. (Jul '16 - Aug '17)
 - Graduate School of Management, GLOBIS University (Sep '17 - Current)
-- Future strategy advisor for Fukui Prefecture (Feb '21 - Current)
+- Future strategy advisor at Fukui Prefecture (Feb '21 - Current)
+- Data utilization planner at Ministry of Agriculture, Forestry and Fisheries (Oct '22 - Current)
 
 # Publications
 ## Book
 - 中村耕史，伊尾木将之，**佐々木健太**，村上雅洋．[クックパッドデータから読み解く食卓の科学](https://www.amazon.co.jp/dp/4785505206)．商業界，2017．
 
 ## Paper
+- **佐々木健太**，鈴木健一，君島朋子，吉川将司，乾健太郎．“[大学・大学院におけるレポート採点支援システムの開発](http://id.nii.ac.jp/1001/00220363/)”．情報処理学会論文誌　教育とコンピュータ．Vol. 8, No. 3, pp. 35-49, 2022.
 - **Kenta Sasaki**, Nobuyoshi Nagamine and Yasubumi Sakakibara, "[Support vector machine prediction of N- and O-glycosylation sites using whole sequence information and subcellular localization](https://www.jstage.jst.go.jp/article/imt/4/2/4_2_400/_article/-char/ja)", IPSJ Transactions on Bioinformatics, Vol. 2, pp. 25-35, 2009.
 
 ## Conferences
