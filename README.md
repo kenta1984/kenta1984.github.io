@@ -17,6 +17,7 @@ I live in Tokyo, working at an education instituition as a data scientist and a 
 
 ## Paper
 - **佐々木健太**，鈴木健一，君島朋子，吉川将司，乾健太郎．“[大学・大学院におけるレポート採点支援システムの開発](http://id.nii.ac.jp/1001/00220363/)”．情報処理学会論文誌　教育とコンピュータ．Vol. 8, No. 3, pp. 35-49, 2022.
+- 渡辺奈夕子，岡本昌之，菊池匡晃，飯田貴之，**佐々木健太**，堀内健介，山崎智弘，大村寿美，服部正典．“[閲覧Webページからの第1検索キーワード抽出に基づく検索支援](http://id.nii.ac.jp/1001/00083171/)”．情報処理学会論文誌．Vol. 53, No. 7, pp. 1783-1796, 2012.
 - **Kenta Sasaki**, Nobuyoshi Nagamine and Yasubumi Sakakibara, "[Support vector machine prediction of N- and O-glycosylation sites using whole sequence information and subcellular localization](https://www.jstage.jst.go.jp/article/imt/4/2/4_2_400/_article/-char/ja)", IPSJ Transactions on Bioinformatics, Vol. 2, pp. 25-35, 2009.
 
 ## Conferences
